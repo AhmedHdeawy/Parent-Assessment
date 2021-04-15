@@ -40,7 +40,7 @@ localhost:8080
 
 ## Run API
 You Can look at Endpoint using Postman here
-[![N|Solid](https://miro.medium.com/max/1838/1*ap0NRizcKwuX5gfzKqEk6Q.png)](https://documenter.getpostman.com/view/12898163/TzJrBJde)
+[Postman Api](https://documenter.getpostman.com/view/12898163/TzJrBJde)
 
 ```sh
 http://localhost:8080/api/v1/users
