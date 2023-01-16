@@ -1,5 +1,3 @@
-[![N|Solid](https://s3.eu-west-2.amazonaws.com/parent-documents/assets/parent_logo.png)](http://parent.eu)
-
 # Assessment Solution
 
 ## Features
